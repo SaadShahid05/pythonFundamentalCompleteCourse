@@ -1,0 +1,7 @@
+this is just a little test "\n" \n this is just a little test akhi
+
+this is just a little test over here
+
+this is without the word "tes*"
+
+this is with the word "test"

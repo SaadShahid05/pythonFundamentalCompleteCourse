@@ -1,0 +1,7 @@
+movie
+(The Lion King - 1994 has a rating of 8.5) 
+(Inception - 2010 has a rating of 8.8) 
+(The Shawshank Redemption - 1994 has a rating of 9.3) 
+(Pulp Fiction - 1994 has a rating of 8.9) 
+(The Dark Knight - 2008 has a rating of 9.2) 
+(Schindler's List - 1993 has a rating of 8.9) 
